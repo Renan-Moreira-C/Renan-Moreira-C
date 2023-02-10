@@ -1,16 +1,17 @@
 
-<h2> Olá, Eu sou o Renan Moreira! 💻😄 </h2>
+
+##  `Olá, Eu sou o Renan Moreira!` 💻😄
+
 
  👨🏻‍💻 - Iniciando meus estudos na area de TI.<br>
  💚 - Apaixonado pelo mundo da tecnologia.<br>
  🎮 - Amante de Games.<br>
 
-<h3> Minhas Redes </h3>
+### `Minhas Redes` 
 
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-<h3> Tecnologias Que estou estudando e utilizo no meu dia a dia.</h2>
-
+### `Tecnologias Que estou estudando e utilizo no meu dia a dia.`
 <div style="display:inline_block"><br>
 <img align:center alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   
@@ -24,7 +25,9 @@
 
  </div>
 <br>
-<h2> Meus Analytics </h2>
+
+## `Meus Analytics` 
+
 </br>
 
 ![Renan Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Moreira-C&theme=chartreuse-dark&show_icons=true&locale=pt-br)

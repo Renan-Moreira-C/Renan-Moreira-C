@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Renan-Moreira-C/Renan-Moreira-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Olá, Eu sou o Renan Moreira! 💻😄 </h2>
 
-Here are some ideas to get you started:
+ 👨🏻‍💻 - Iniciando meus estudos na area de TI.<br>
+ 💚 - Apaixonado pelo mundo da tecnologia.<br>
+ 🎮 - Amante de Games.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Minhas Redes </h3>
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+<h3> Tecnologias Que estou estudando e utilizo no meu dia a dia.</h2>
+
+<div style="display:inline_block"><br>
+<img align:center alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+  
+  <br>
+  
+<img align:center alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img align:center alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img align:center alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+ </div>
+<br>
+<h2> Meus Analytics </h2>
+</br>
+
+![Renan Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Renan-Moreira-C&theme=chartreuse-dark&show_icons=true&locale=pt-br)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Moreira-C&theme=chartreuse-dark&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
